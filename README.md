@@ -46,7 +46,7 @@ THEN I can like a review and/or comment on that review
 
 ![Test](https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/tests.gif)
 ![Demo](https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/Demo.gif)
-![assets/html file.gif)
+![https://github.com/KeisaP/Team-Profile-Generator/blob/66df28ba94e192b1bbf98c9a45e411a75a6f27c4/assets/html%20file.gif)
 
 
 ## Contributing
