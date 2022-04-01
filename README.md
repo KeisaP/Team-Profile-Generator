@@ -9,21 +9,6 @@
 <br>
 
 ## User Story:
-
-```
-# 'Flix-and-Spill
-
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-
-## Description:
-
-#### This apps gives users the opportunity to share and read reviews on popular Netflix movies and tv shows. It also gives them the opportunity to interact with other users by commenting on existing reviews. The creators of this application are Jing Liu, Dasia Smith, Olivia Latham and Keisa Portress
-
-<br>
-<br>
-
-## User Story:
-
 ```
 AS a User
 I WANT to read and write reviews for popular Netflix movies and tv shows,
@@ -34,29 +19,7 @@ SO THAT when I write a review, users can comment and "like" my reviews.
 ## Acceptance Criteria:
 
 ```
-# 'Flix-and-Spill
 
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
-
-## Description:
-
-#### This apps gives users the opportunity to share and read reviews on popular Netflix movies and tv shows. It also gives them the opportunity to interact with other users by commenting on existing reviews. The creators of this application are Jing Liu, Dasia Smith, Olivia Latham and Keisa Portress
-
-<br>
-<br>
-
-## User Story:
-
-```
-AS a User
-I WANT to read and write reviews for popular Netflix movies and tv shows,
-CREATE a profile that includes all of my past reviews
-SO THAT when I write a review, users can comment and "like" my reviews.
-```
-
-## Acceptance Criteria:
-
-```
 GIVEN I want to write a review for a Netflix movie or tv show
 WHEN I sign up as a user
 THEN a welcome email is sent to me
@@ -78,13 +41,13 @@ THEN I can like a review and/or comment on that review
 <br>
 
 ## Screenshots
-
+![Webpage](../assets/Webpage.JPG)
 ## Working Code
 
 ![Test](../assets/tests.gif)
 ![Demo](../assets/Demo.gif)
 ![html](../assets/html file.gif)
-![Webpage](../assets/Webpage.JPG)
+
 
 ## Contributing
 
