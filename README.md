@@ -41,12 +41,12 @@ THEN I can like a review and/or comment on that review
 <br>
 
 ## Screenshots
-![Webpage](../assets/Webpage.JPG)
+![Webpage](https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/Webpage.JPG)
 ## Working Code
 
-![Test](../assets/tests.gif)
-![Demo](../assets/Demo.gif)
-![html](../assets/html file.gif)
+![Test](https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/tests.gif)
+![Demo](https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/Demo.gif)
+![https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/html%20file.gif)
 
 
 ## Contributing
