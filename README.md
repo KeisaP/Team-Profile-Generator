@@ -34,7 +34,7 @@ THEN I can like a review and/or comment on that review
 
 ## Links
 
-[Link to Live Webpage](https://shielded-gorge-65326.herokuapp.com/)
+[Link to Live Webpage](https://keisap.github.io/Team-Profile-Generator/)
 
 [Link to Github Repository](https://github.com/KeisaP/Team-Profile-Generator)
 
