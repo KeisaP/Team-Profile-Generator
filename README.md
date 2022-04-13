@@ -34,17 +34,26 @@ THEN I can like a review and/or comment on that review
 
 ## Links
 
-[Link to Live Webpage](https://shielded-gorge-65326.herokuapp.com/)
+[Link to Live Webpage](https://keisap.github.io/Team-Profile-Generator/)
 
 [Link to Github Repository](https://github.com/KeisaP/Team-Profile-Generator)
 
 <br>
 
 ## Screenshots
+<<<<<<< HEAD
 ![Webpage](../assets/Screenshot.JPG)
 ## Working Code
 
 ![Demo](../assets/Demo.gif)
+=======
+![Webpage](https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/Webpage.JPG)
+## Working Code
+
+![Test](https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/tests.gif)
+![Demo](https://github.com/KeisaP/Team-Profile-Generator/blob/main/assets/Demo.gif)
+![https://github.com/KeisaP/Team-Profile-Generator/blob/66df28ba94e192b1bbf98c9a45e411a75a6f27c4/assets/html%20file.gif)
+>>>>>>> eaec16f66dbafc3c56e5943b3b75ffa82319f73a
 
 
 ## Contributing
