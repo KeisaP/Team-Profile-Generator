@@ -42,11 +42,11 @@ THEN I can like a review and/or comment on that review
 
 ## Screenshots
 
-![Webpage](../assets/Screenshot.JPG)
+![Webpage](assets/Screenshot.JPG)
 
 ## Working Code
 
-![Demo](../assets/Demo.gif)
+![Demo](assets/Demo.gif)
 
 ## Contributing
 
