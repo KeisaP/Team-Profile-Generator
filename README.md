@@ -41,12 +41,10 @@ THEN I can like a review and/or comment on that review
 <br>
 
 ## Screenshots
-![Webpage](../assets/Webpage.JPG)
+![Webpage](../assets/Screenshot.JPG)
 ## Working Code
 
-![Test](../assets/tests.gif)
 ![Demo](../assets/Demo.gif)
-![html](../assets/html file.gif)
 
 
 ## Contributing
